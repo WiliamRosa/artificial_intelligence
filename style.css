@@ -1,0 +1,52 @@
+canvas {
+  border: 1px solid black;
+}
+.invisible {
+  display: none;
+}
+.text-center {
+  text-align: center;
+}
+div {
+  margin: 10px;
+}
+.center-block {
+  display: block;
+  margin-left: 250px;
+}
+label {
+  padding-right: 10px;
+  width: 25%;
+  vertical-align: top;
+  font: 16px 'Lucida Grande', sans-serif;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 15%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.vertical-center2 {
+  margin: 0;
+  position: absolute;
+  top: 20%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.vertical-center3 {
+  margin: 0;
+  position: absolute;
+  top: 25%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.vertical-center4 {
+  margin: 0;
+  position: absolute;
+  top: 30%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
